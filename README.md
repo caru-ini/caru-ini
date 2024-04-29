@@ -1,4 +1,4 @@
-# Hello, I'm Caru (he/him) 👋
+# Hello, I'm Caru👋
 
 I'm an 18-year-old university student at [INIAD](https://iniad.org/) (Toyo Universiy, Information Networking for Innovation and Design)\
 I'm enthusiastic about web development, machine learning, and AI( especially NLP ).
