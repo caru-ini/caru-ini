@@ -7,17 +7,12 @@ I'm enthusiastic about web development, machine learning, and AI( especially NLP
 
 I'm new to GitHub and my stats are not that impressive yet, but I'm working on it!
 
-<details>
-    <summary>Click to expand</summary>
-    <br>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=caru-ini&show_icons=true&theme=algolia" alt="Caru's GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caru-ini&layout=compact&theme=algolia" alt="Caru's Top Languages" />
-    </p>
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=caru-ini&theme=onedark" alt="Caru's Trophies" />
-    </p>
-</details>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=caru-ini&theme=algolia" alt="Caru's Trophies">
+    <img src="https://github-readme-stats.vercel.app/api?username=caru-ini&show_icons=true&theme=algolia" alt="Caru's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caru-ini&layout=compact&theme=algolia" alt="Caru's Top Languages">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=caru-ini&theme=tokyo-night" alt="Caru's GitHub Activity Graph">
+</p>
 
 ## 🌱 I'm currently learning
 
@@ -31,6 +26,7 @@ I'm new to GitHub and my stats are not that impressive yet, but I'm working on i
 - FastAPI ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 - OpenAI ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 - Docker ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- Amazon Cognito ![Amazon Cognito](https://img.shields.io/badge/-Cognito-d91f2a?style=flat-square&logo=amazoncognito&logoColor=white)
 
 ## 💪 I'm good at
 
