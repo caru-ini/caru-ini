@@ -45,6 +45,6 @@ I'm new to GitHub and my stats are not that impressive yet, but I'm working on i
 
 ## 📫 How to reach me
 
-- Twitter: [@caru_ini_8](https://twitter.com/caru_ini_8)
+- Twitter: [@caru_ini](https://twitter.com/caru_ini)
 - Email: <s1F102400392@iniad.org>
 - Discord: [caru_ini](https://discord.com/users/1226826654794649690)
