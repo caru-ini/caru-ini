@@ -18,29 +18,29 @@ I'm new to GitHub and my stats are not that impressive yet, but I'm working on i
 
 ### Programming Languages
 
-![languages i'm learning](https://skillicons.dev/icons?i=typescript,python)
+![languages i'm learning](https://go-skill-icons.vercel.app/api/icons?i=typescript,python)
 
 ### Frameworks
 
-![frameworks i'm learning](https://skillicons.dev/icons?i=next,react)
+![frameworks i'm learning](https://go-skill-icons.vercel.app/api/icons?i=next,react,hono)
 
 ## 💪 I'm good at
 
-![i'm good at](https://skillicons.dev/icons?i=discord,fastapi)
+![i'm good at](https://go-skill-icons.vercel.app/api/icons?i=discord,fastapi,langchain)
 
 ## 🔧 Tools I use
 
 ### Languages
 
-![languages i use](https://skillicons.dev/icons?i=python,typescript)
+![languages i use](https://go-skill-icons.vercel.app/api/icons?i=python,typescript)
 
 ### Tools
 
-![tools i use](https://skillicons.dev/icons?i=git,pnpm,docker)
+![tools i use](https://go-skill-icons.vercel.app/api/icons?i=git,pnpm,docker)
 
 ### IDEs
 
-![ides i use](https://skillicons.dev/icons?i=vscode,pycharm,webstorm)
+![ides i use](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,webstorm)
 
 ## 📫 How to reach me
 
