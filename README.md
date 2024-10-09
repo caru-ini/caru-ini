@@ -1,7 +1,7 @@
 # Hello, I'm Caru👋
 
-I'm an 18-year-old university student at [INIAD](https://iniad.org/) (Toyo Universiy, Information Networking for Innovation and Design)\
-I'm enthusiastic about web development, machine learning, and AI( especially NLP ).
+I'm an 18-year-old university student at [INIAD](https://iniad.org/) (Toyo Universiy, Information Networking for Innovation and Design)
+I'm enthusiastic about web development.
 
 ## 📈 My GitHub Stats
 
@@ -22,11 +22,11 @@ I'm new to GitHub and my stats are not that impressive yet, but I'm working on i
 
 ### Frameworks
 
-![frameworks i'm learning](https://go-skill-icons.vercel.app/api/icons?i=next,react,hono)
+![frameworks i'm learning](https://go-skill-icons.vercel.app/api/icons?i=next,react,hono,tailwind)
 
 ## 💪 I'm good at
 
-![i'm good at](https://go-skill-icons.vercel.app/api/icons?i=discord,fastapi,langchain)
+![i'm good at](https://go-skill-icons.vercel.app/api/icons?i=discord,langchain,openai)
 
 ## 🔧 Tools I use
 
@@ -46,4 +46,4 @@ I'm new to GitHub and my stats are not that impressive yet, but I'm working on i
 
 - Twitter: [@caru_ini](https://twitter.com/caru_ini)
 - Email: <s1F102400392@iniad.org>
-- Discord: [caru_ini](https://discord.com/users/1226826654794649690)
+- Discord: [carudayo](https://discord.com/users/1226826654794649690)
