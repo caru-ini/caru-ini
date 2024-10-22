@@ -26,7 +26,7 @@ I'm new to GitHub and my stats are not that impressive yet, but I'm working on i
 
 ## 💪 I'm good at
 
-![i'm good at](https://go-skill-icons.vercel.app/api/icons?i=discord,langchain,openai)
+![i'm good at](https://go-skill-icons.vercel.app/api/icons?i=discordbots,langchain,openai)
 
 ## 🔧 Tools I use
 
