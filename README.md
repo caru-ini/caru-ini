@@ -7,12 +7,8 @@ I'm enthusiastic about web development.
 
 I'm new to GitHub and my stats are not that impressive yet, but I'm working on it!
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=caru-ini&theme=algolia" alt="Caru's Trophies">
-    <img src="https://github-readme-stats.vercel.app/api?username=caru-ini&show_icons=true&theme=algolia" alt="Caru's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caru-ini&layout=compact&theme=algolia" alt="Caru's Top Languages">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=caru-ini&theme=tokyo-night" alt="Caru's GitHub Activity Graph">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=caru-ini&show_icons=true&theme=algolia" alt="Caru's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caru-ini&layout=compact&theme=algolia" alt="Caru's Top Languages">
 
 ## 🌱 I'm currently learning
 
@@ -44,6 +40,7 @@ I'm new to GitHub and my stats are not that impressive yet, but I'm working on i
 
 ## 📫 How to reach me
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1226826654794649690)](https://discord.com/users/1226826654794649690)
+
 - Twitter: [@caru_ini](https://twitter.com/caru_ini)
 - Email: <s1F102400392@iniad.org>
-- Discord: [carudayo](https://discord.com/users/1226826654794649690)
