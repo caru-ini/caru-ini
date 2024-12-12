@@ -1,6 +1,6 @@
 # Hello, I'm Caru👋
 
-I'm an 18-year-old university student at [INIAD](https://iniad.org/) (Toyo Universiy, Information Networking for Innovation and Design)
+I'm an 19-year-old university student at [INIAD](https://iniad.org/) (Toyo Universiy, Information Networking for Innovation and Design)
 I'm enthusiastic about web development.
 
 ## 📈 My GitHub Stats
