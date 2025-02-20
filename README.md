@@ -18,7 +18,7 @@ I'm new to GitHub and my stats are not that impressive yet, but I'm working on i
 
 ### Frameworks
 
-![frameworks i'm learning](https://go-skill-icons.vercel.app/api/icons?i=next,react,hono,tailwind)
+![frameworks i'm learning](https://go-skill-icons.vercel.app/api/icons?i=next,react,tailwind,trpc,hono,authjs,prisma)
 
 ### Tools
 
