@@ -5,28 +5,19 @@ I'm enthusiastic about web development.
 
 ## 📈 My GitHub Stats
 
-I'm new to GitHub and my stats are not that impressive yet, but I'm working on it!
-
-<img src="https://github-readme-stats.vercel.app/api?username=caru-ini&show_icons=true&theme=algolia" alt="Caru's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caru-ini&layout=compact&theme=algolia" alt="Caru's Top Languages">
+
+<details>
+  <summary>More Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=caru-ini&show_icons=true&theme=algolia" alt="Caru's GitHub Stats">
+</details>
 
 ## 🔧 I use...
 
-### Programming Languages
-
 ![languages i'm learning](https://go-skill-icons.vercel.app/api/icons?i=typescript,python)
-
-### Frameworks
-
-![frameworks i'm learning](https://go-skill-icons.vercel.app/api/icons?i=next,react,tailwind,trpc,hono,authjs,prisma)
-
-### Tools
-
+![frameworks i always use](https://go-skill-icons.vercel.app/api/icons?i=next,react,tailwind,hono,shadcn,prisma)
 ![tools i use](https://go-skill-icons.vercel.app/api/icons?i=git,pnpm,docker)
-
-### IDEs
-
-![ides i use](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,webstorm)
+![ides i use](https://go-skill-icons.vercel.app/api/icons?i=cursor)
 
 ## Creations
 
@@ -39,6 +30,8 @@ Comic generation web app powered by AI.
 Virtual try-on web app. Features high-quality preview-generation and better user experience.
 
 ## 📫 How to reach me
+
+- Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1226826654794649690)](https://discord.com/users/1226826654794649690)
 
