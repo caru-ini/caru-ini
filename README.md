@@ -14,10 +14,23 @@ I'm enthusiastic about web development.
 
 ## 🔧 I use...
 
-![languages i'm learning](https://go-skill-icons.vercel.app/api/icons?i=typescript,python)
-![frameworks i always use](https://go-skill-icons.vercel.app/api/icons?i=next,react,tailwind,hono,shadcn,prisma)
-![tools i use](https://go-skill-icons.vercel.app/api/icons?i=git,pnpm,docker)
-![ides i use](https://go-skill-icons.vercel.app/api/icons?i=cursor)
+### Programming Languages
+
+![languages i'm learning](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,python)
+
+### Frameworks
+
+![frameworks i always use(frontend)](https://go-skill-icons.vercel.app/api/icons?i=next,react,tailwind,shadcn,hono,prisma)
+
+![frameworks i always use(backend)](https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,pandas,numpy,scipy,matplotlib)
+
+### Tools/Services
+
+![tools i use](https://go-skill-icons.vercel.app/api/icons?i=git,pnpm,bun,docker,vercel,github)
+
+### IDEs
+
+![ides i use](https://go-skill-icons.vercel.app/api/icons?i=cursor,vscode)
 
 ## Creations
 
