@@ -5,11 +5,11 @@ I'm enthusiastic about web development.
 
 ## 📈 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caru-ini&layout=compact&theme=algolia" alt="Caru's Top Languages">
+<img src="https://readme-stats.caru.moe/api/top-langs/?username=caru-ini&layout=compact&theme=algolia" alt="Caru's Top Languages">
 
 <details>
   <summary>More Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=caru-ini&show_icons=true&theme=algolia" alt="Caru's GitHub Stats">
+  <img src="https://readme-stats.caru.moe/api?username=caru-ini&show_icons=true&theme=algolia" alt="Caru's GitHub Stats">
 </details>
 
 ## 🔧 I use...
