@@ -5,7 +5,7 @@ I'm enthusiastic about web development.
 
 ## 📈 My GitHub Stats
 
-<img src="https://readme-stats.caru.moe/api/top-langs/?username=caru-ini&layout=compact&theme=algolia" alt="Caru's Top Languages">
+<img src="https://readme-stats.caru.moe/api/top-langs/?username=caru-ini&layout=compact&theme=algolia&hide=html,jupyter%20notebook" alt="Caru's Top Languages">
 
 <details>
   <summary>More Stats</summary>
