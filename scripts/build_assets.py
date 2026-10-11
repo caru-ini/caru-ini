@@ -35,8 +35,6 @@ def main() -> None:
 
     avatar = cached(f"https://github.com/{content.USER}.png?size=400", "avatar.png")
     write("hero.svg", c.hero(**content.HERO, stars=total, repos=repo_count, avatar=avatar))
-    write("logo.svg", c.logo_mark())
-    write("logo-dark.svg", c.logo_mark(on_ink=True))
     write("signature.svg", c.signature())
 
     for name, label, icon, primary in content.BUTTONS:

@@ -12,19 +12,6 @@ from .tokens import CYAN_INK, CYAN_TINT, INK, INK2, IRIS_TINT, MINT, MINT_TINT, 
 _SIGNATURE = ("circle", "triangle", "pentagon", "square")
 
 
-def logo_mark(on_ink: bool = False) -> str:
-    """●▲⬟■.moe wordmark (Figma "Logo"). Shapes 17.6px, gap 3, ".moe" Figtree ExtraBold 22."""
-    s, gap = 17.6, 3
-    x, body = 0.0, ""
-    for kind in _SIGNATURE:
-        body += mark(kind, x + s / 2, 11, s)
-        x += s + gap
-    x += gap
-    tw = measure(".moe", 22, 800)
-    body += text(".moe", 22, 800, x, baseline(0, 22, 22, 800), SURFACE if on_ink else INK)
-    return svg(round(x + tw + 1), 22, body)
-
-
 def signature() -> str:
     body = "".join(mark(k, 6 + i * 16, 6, 12) for i, k in enumerate(_SIGNATURE))
     return svg(60, 12, body)

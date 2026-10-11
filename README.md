@@ -1,5 +1,3 @@
-<a href="https://caru.moe/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg"><img src="assets/logo.svg" alt="Caru.moe" height="22"></picture></a>
-
 <a href="https://caru.moe/"><img src="assets/hero.svg" alt="Caru — Student / Web engineer. Aspiring engineer studying at INIAD, Toyo University (class of 2028). I love building for the web and have been programming since junior high school." width="100%"></a>
 
 <p>
