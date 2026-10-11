@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Jacket" clip-path="url(#clip0_0_31)">
+<rect width="300" height="100" fill="#1BE5EE"/>
+<circle id="Ellipse" cx="37" cy="29" r="19" fill="#CBF6FB"/>
+<circle id="Ellipse_2" cx="74" cy="73" r="19" fill="#06707E"/>
+<circle id="Ellipse_3" cx="111" cy="29" r="19" fill="#CBF6FB"/>
+<circle id="Ellipse_4" cx="148" cy="73" r="19" fill="#06707E"/>
+<circle id="Ellipse_5" cx="185" cy="29" r="19" fill="#C8A5F0"/>
+<circle id="Ellipse_6" cx="222" cy="73" r="19" fill="#06707E"/>
+<circle id="Ellipse_7" cx="259" cy="29" r="19" fill="#CBF6FB"/>
+<circle id="Ellipse_8" cx="296" cy="73" r="19" fill="#06707E"/>
+</g>
+<defs>
+<clipPath id="clip0_0_31">
+<rect width="300" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
